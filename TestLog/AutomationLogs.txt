@@ -1,0 +1,80 @@
+2021-11-18 14:59:04,709 INFO  [GoogleSearchTest] Launch the browser and redirected to the URL 
+2021-11-18 14:59:04,857 INFO  [GoogleSearchTest] Entered text for searching 
+2021-11-18 14:59:05,891 INFO  [GoogleSearchTest] Found the search result 
+2021-11-18 14:59:05,892 INFO  [GoogleSearchTest] Test FAILED 
+2021-11-18 14:59:09,418 INFO  [GoogleSearchTest] Launch the browser and redirected to the URL 
+2021-11-18 14:59:09,544 INFO  [GoogleSearchTest] Entered text for searching 
+2021-11-18 14:59:10,571 INFO  [GoogleSearchTest] Found the search result 
+2021-11-18 14:59:10,571 INFO  [GoogleSearchTest] Test FAILED 
+2021-11-18 14:59:14,129 INFO  [GoogleSearchTest] Launch the browser and redirected to the URL 
+2021-11-18 14:59:14,250 INFO  [GoogleSearchTest] Entered text for searching 
+2021-11-18 14:59:15,280 INFO  [GoogleSearchTest] Found the search result 
+2021-11-18 14:59:15,281 INFO  [GoogleSearchTest] Test Passed 
+2021-11-18 14:59:19,094 INFO  [GoogleSearchTest] Launch the browser and redirected to the URL 
+2021-11-18 14:59:19,199 INFO  [GoogleSearchTest] Entered text for searching 
+2021-11-18 14:59:20,229 INFO  [GoogleSearchTest] Found the search result 
+2021-11-18 14:59:20,229 INFO  [GoogleSearchTest] Test FAILED 
+2021-11-18 15:00:09,154 INFO  [GoogleSearchTest] Launch the browser and redirected to the URL 
+2021-11-18 15:00:09,280 INFO  [GoogleSearchTest] Entered text for searching 
+2021-11-18 15:00:10,307 INFO  [GoogleSearchTest] Found the search result 
+2021-11-18 15:00:10,307 INFO  [GoogleSearchTest] Test FAILED 
+2021-11-18 15:00:13,882 INFO  [GoogleSearchTest] Launch the browser and redirected to the URL 
+2021-11-18 15:00:13,998 INFO  [GoogleSearchTest] Entered text for searching 
+2021-11-18 15:00:15,027 INFO  [GoogleSearchTest] Found the search result 
+2021-11-18 15:00:15,027 INFO  [GoogleSearchTest] Test FAILED 
+2021-11-18 15:00:18,413 INFO  [GoogleSearchTest] Launch the browser and redirected to the URL 
+2021-11-18 15:00:18,544 INFO  [GoogleSearchTest] Entered text for searching 
+2021-11-18 15:00:19,574 INFO  [GoogleSearchTest] Found the search result 
+2021-11-18 15:00:19,574 INFO  [GoogleSearchTest] Test Passed 
+2021-11-18 15:00:22,930 INFO  [GoogleSearchTest] Launch the browser and redirected to the URL 
+2021-11-18 15:00:23,034 INFO  [GoogleSearchTest] Entered text for searching 
+2021-11-18 15:00:24,058 INFO  [GoogleSearchTest] Found the search result 
+2021-11-18 15:00:24,059 INFO  [GoogleSearchTest] Test FAILED 
+2021-11-18 15:02:17,170 INFO  [GoogleSearchTest] Launch the browser and redirected to the URL 
+2021-11-18 15:02:17,352 INFO  [GoogleSearchTest] Entered text for searching 
+2021-11-18 15:02:18,380 INFO  [GoogleSearchTest] Found the search result 
+2021-11-18 15:02:18,380 INFO  [GoogleSearchTest] Test FAILED 
+2021-11-18 15:02:22,194 INFO  [GoogleSearchTest] Launch the browser and redirected to the URL 
+2021-11-18 15:02:22,307 INFO  [GoogleSearchTest] Entered text for searching 
+2021-11-18 15:02:23,334 INFO  [GoogleSearchTest] Found the search result 
+2021-11-18 15:02:23,334 INFO  [GoogleSearchTest] Test FAILED 
+2021-11-18 15:02:26,969 INFO  [GoogleSearchTest] Launch the browser and redirected to the URL 
+2021-11-18 15:02:27,109 INFO  [GoogleSearchTest] Entered text for searching 
+2021-11-18 15:02:28,135 INFO  [GoogleSearchTest] Found the search result 
+2021-11-18 15:02:28,136 INFO  [GoogleSearchTest] Test Passed 
+2021-11-18 15:02:31,692 INFO  [GoogleSearchTest] Launch the browser and redirected to the URL 
+2021-11-18 15:02:31,801 INFO  [GoogleSearchTest] Entered text for searching 
+2021-11-18 15:02:32,828 INFO  [GoogleSearchTest] Found the search result 
+2021-11-18 15:02:32,828 INFO  [GoogleSearchTest] Test FAILED 
+2021-11-18 15:03:45,275 INFO  [GoogleSearchTest] Launch the browser and redirected to the URL 
+2021-11-18 15:03:45,402 INFO  [GoogleSearchTest] Entered text for searching 
+2021-11-18 15:03:46,433 INFO  [GoogleSearchTest] Found the search result 
+2021-11-18 15:03:46,433 INFO  [GoogleSearchTest] Test FAILED 
+2021-11-18 15:03:50,691 INFO  [GoogleSearchTest] Launch the browser and redirected to the URL 
+2021-11-18 15:03:50,801 INFO  [GoogleSearchTest] Entered text for searching 
+2021-11-18 15:03:51,831 INFO  [GoogleSearchTest] Found the search result 
+2021-11-18 15:03:51,831 INFO  [GoogleSearchTest] Test FAILED 
+2021-11-18 15:03:55,639 INFO  [GoogleSearchTest] Launch the browser and redirected to the URL 
+2021-11-18 15:03:55,773 INFO  [GoogleSearchTest] Entered text for searching 
+2021-11-18 15:03:56,802 INFO  [GoogleSearchTest] Found the search result 
+2021-11-18 15:03:56,802 INFO  [GoogleSearchTest] Test Passed 
+2021-11-18 15:04:00,274 INFO  [GoogleSearchTest] Launch the browser and redirected to the URL 
+2021-11-18 15:04:00,396 INFO  [GoogleSearchTest] Entered text for searching 
+2021-11-18 15:04:01,427 INFO  [GoogleSearchTest] Found the search result 
+2021-11-18 15:04:01,427 INFO  [GoogleSearchTest] Test FAILED 
+2021-11-18 15:05:08,221 INFO  [GoogleSearchTest] Launch the browser and redirected to the URL 
+2021-11-18 15:05:08,345 INFO  [GoogleSearchTest] Entered text for searching 
+2021-11-18 15:05:09,372 INFO  [GoogleSearchTest] Found the search result 
+2021-11-18 15:05:09,373 INFO  [GoogleSearchTest] Test FAILED 
+2021-11-18 15:05:12,914 INFO  [GoogleSearchTest] Launch the browser and redirected to the URL 
+2021-11-18 15:05:13,032 INFO  [GoogleSearchTest] Entered text for searching 
+2021-11-18 15:05:14,058 INFO  [GoogleSearchTest] Found the search result 
+2021-11-18 15:05:14,058 INFO  [GoogleSearchTest] Test Passed 
+2021-11-18 15:05:17,762 INFO  [GoogleSearchTest] Launch the browser and redirected to the URL 
+2021-11-18 15:05:17,885 INFO  [GoogleSearchTest] Entered text for searching 
+2021-11-18 15:05:18,913 INFO  [GoogleSearchTest] Found the search result 
+2021-11-18 15:05:18,913 INFO  [GoogleSearchTest] Test Passed 
+2021-11-18 15:05:23,162 INFO  [GoogleSearchTest] Launch the browser and redirected to the URL 
+2021-11-18 15:05:23,269 INFO  [GoogleSearchTest] Entered text for searching 
+2021-11-18 15:05:24,301 INFO  [GoogleSearchTest] Found the search result 
+2021-11-18 15:05:24,303 INFO  [GoogleSearchTest] Test FAILED 

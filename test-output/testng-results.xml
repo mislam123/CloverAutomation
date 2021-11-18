@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-18T15:05:04 EST" name="Default suite" finished-at="2021-11-18T15:05:25 EST" duration-ms="21293">
+    <groups>
+    </groups>
+    <test started-at="2021-11-18T15:05:04 EST" name="Default test" finished-at="2021-11-18T15:05:25 EST" duration-ms="21293">
+      <class name="com.clover.testcase.GoogleSearchTest">
+        <test-method signature="GoogleSearchTest(java.lang.String,java.lang.String)[pri:0, instance:com.clover.testcase.GoogleSearchTest@10feca44]" started-at="2021-11-18T15:05:04 EST" name="GoogleSearchTest" data-provider="TestData" finished-at="2021-11-18T15:05:10 EST" duration-ms="6182" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hello]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[HelloFresh]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GoogleSearchTest -->
+        <test-method signature="GoogleSearchTest(java.lang.String,java.lang.String)[pri:0, instance:com.clover.testcase.GoogleSearchTest@10feca44]" started-at="2021-11-18T15:05:10 EST" name="GoogleSearchTest" data-provider="TestData" finished-at="2021-11-18T15:05:15 EST" duration-ms="4674" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[java]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[java]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GoogleSearchTest -->
+        <test-method signature="GoogleSearchTest(java.lang.String,java.lang.String)[pri:0, instance:com.clover.testcase.GoogleSearchTest@10feca44]" started-at="2021-11-18T15:05:15 EST" name="GoogleSearchTest" data-provider="TestData" finished-at="2021-11-18T15:05:20 EST" duration-ms="4856" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[coding]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[coding]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GoogleSearchTest -->
+        <test-method signature="GoogleSearchTest(java.lang.String,java.lang.String)[pri:0, instance:com.clover.testcase.GoogleSearchTest@10feca44]" started-at="2021-11-18T15:05:20 EST" name="GoogleSearchTest" data-provider="TestData" finished-at="2021-11-18T15:05:25 EST" duration-ms="5398" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[qa]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[selenium]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GoogleSearchTest -->
+      </class> <!-- com.clover.testcase.GoogleSearchTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

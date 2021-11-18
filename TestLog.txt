@@ -1,0 +1,8 @@
+2021-11-18 13:54:03,286 INFO  [GoogleSearchTest] Launch the browser and redirected to the URL 
+2021-11-18 13:54:06,948 INFO  [GoogleSearchTest] Launch the browser and redirected to the URL 
+2021-11-18 13:54:10,559 INFO  [GoogleSearchTest] Launch the browser and redirected to the URL 
+2021-11-18 13:54:14,461 INFO  [GoogleSearchTest] Launch the browser and redirected to the URL 
+2021-11-18 13:59:37,343 INFO  [GoogleSearchTest] Launch the browser and redirected to the URL 
+2021-11-18 13:59:40,970 INFO  [GoogleSearchTest] Launch the browser and redirected to the URL 
+2021-11-18 13:59:44,687 INFO  [GoogleSearchTest] Launch the browser and redirected to the URL 
+2021-11-18 13:59:48,511 INFO  [GoogleSearchTest] Launch the browser and redirected to the URL 
